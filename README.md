@@ -6,7 +6,7 @@ payment methods. This project uses Machine Learning techniques to identify and p
 Online payment fraud is a significant concern in today's digital world. This project aims to develop a fraud detection system  
 using machine learning algorithms.  primary classification algorithms have been used: Logistic Regression,XGBClassifier.
 
-The primary **objectives** of this project are:
+The primary **objectives** of this project are: 
 1️⃣ Identifying Real-time fraud detection.
 2️⃣ Utilizing ML models to analyze transaction data & identify patterns.
 3️⃣ Implementing optimized algorithms to improve efficiency.
