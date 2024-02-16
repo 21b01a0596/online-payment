@@ -8,7 +8,9 @@ using machine learning algorithms.  primary classification algorithms have been 
 
 The primary **objectives** of this project are: 
 1️⃣ Identifying Real-time fraud detection.
+
 2️⃣ Utilizing ML models to analyze transaction data & identify patterns.
+
 3️⃣ Implementing optimized algorithms to improve efficiency.
 
 **Dataset:**
